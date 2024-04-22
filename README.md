@@ -1,4 +1,1 @@
-# calculadora
-# python
-
-# exercício Elas na Tech
+Elas na Tech
